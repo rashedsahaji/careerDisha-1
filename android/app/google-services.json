@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381928591065",
+    "firebase_url": "https://career-disha-ba833.firebaseio.com",
+    "project_id": "career-disha-ba833",
+    "storage_bucket": "career-disha-ba833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381928591065:android:24342abfa04aa75571b8c8",
+        "android_client_info": {
+          "package_name": "com.teampheonix.careerdisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381928591065-e2snvtam3gnaji4indofvksirks8i2uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi90Gm4N89e9OeOmwOI2rqeWGHXVptjJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381928591065-e2snvtam3gnaji4indofvksirks8i2uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
